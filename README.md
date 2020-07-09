@@ -1,4 +1,4 @@
-# NLP papers, tl;dr
+# NLP papers
 
 ## General 
 
