@@ -1,5 +1,9 @@
 # NLP papers
 
+## IR para QA
+
+[Papers](irqa.md)
+
 ## General 
 
 - ⭐ Bender, E. M., & Koller, A. (2020). [Climbing towards NLU: On meaning, form, and understanding in the age of data](https://www.aclweb.org/anthology/2020.acl-main.463.pdf). In Proc. of ACL.
