@@ -1,6 +1,5 @@
-### QA Jurafsky
-
-Martin & Jurafsky, 3era ed. Capítulo 23: Question Answering [Link](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
+### QA Intro
+- Martin & Jurafsky, 3era ed. Capítulo 23: Question Answering [Link](https://web.stanford.edu/~jurafsky/slp3/23.pdf)
 
 
 ### Papers sobre Information Retrieval en el marco de QA
