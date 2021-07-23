@@ -19,6 +19,8 @@ In _International Summer School on Information Extraction_ (pp. 129-147). Spring
 
 **Abstract** _This paper proposes to tackle open-domain question answering using Wikipedia as the unique knowledge source: the answer to any factoid question is a text span in a Wikipedia article. This task of machine reading at scale combines the challenges of document retrieval (finding the relevant articles) with that of machine comprehension of text (identifying the answer spans from those articles). Our approach combines a search component based on bigram hashing and TF-IDF matching with a multi-layer recurrent neural network model trained to detect answers in Wikipedia paragraphs. Our experiments on multiple existing QA datasets indicate that (1) both modules are highly competitive with respect to existing counterparts and (2) multitask learning using distant supervision on their combination is an effective complete system on this challenging task_.
 
+**TLDR** En este paper se realiza la etapa de IR con un modelo basado en TF-IDF utilizando una estructura de Hash con bigramas, en lugar de terminos. Los resultados mejoran el buscador de wikipedia. ademas es eficiente. 
+
 
 - Lin, J., Nogueira, R., and Yates, A. (2020). Pretrained transformers for text ranking: BERT and beyond. arXiv preprint arXiv:2010.06467. [Link](https://arxiv.org/pdf/2010.06467.pdf) 
 
